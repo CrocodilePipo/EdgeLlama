@@ -1,0 +1,11 @@
+/build*/
+/lib/
+/models/
+__pycache__/
+*.py[cod]
+*.pth
+*.pt
+*.safetensors
+*.bin
+!/tmp/test.bin
+compile_commands.json
